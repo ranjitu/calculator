@@ -1,7 +1,7 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
-a pocket calculator.nic eone
+a pocket calculator.
 [![Build Status](https://dev.azure.com/ranjitu/PartsUnlimited/_apis/build/status/ranjitu.calculator?branchName=master)](https://dev.azure.com/ranjitu/PartsUnlimited/_build/latest?definitionId=3&branchName=master)
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
